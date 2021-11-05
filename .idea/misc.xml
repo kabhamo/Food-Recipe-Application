@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.36567926455566907" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/layout/activity_base.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15186680121089807" />
+        <entry key="app/src/main/res/layout/activity_recipe_description.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_recipe_list.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/layout_category_list_item.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/layout_loading_list_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/layout_recipe_activity.xml" value="0.13722826086956522" />
+        <entry key="app/src/main/res/layout/layout_recipe_list_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/layout_search_exhausted.xml" value="0.5" />
+        <entry key="app/src/main/res/menu/recipe_search_menu.xml" value="0.28055555555555556" />
+        <entry key="app/src/main/res/xml/network_security_config.xml" value="0.11820652173913043" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
