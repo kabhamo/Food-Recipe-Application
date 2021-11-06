@@ -2,7 +2,10 @@
 > A JAVA application that allow users to explore new and delicieuse food recipes
 
 
+
+<img src="FR Asset/Breakfast.png" width="300" height="600" >
 <img src="FR Asset/Desserts.png" width="300" height="600" >
+<img src="FR Asset/Search Description.png" width="300" height="600" >
 
 
 [![vido_thumbnail](https://c1.staticflickr.com/3/2154/2054140257_58e87296b6.jpg)](https://www.youtube.com/watch?v=SjORe3_2bQc)
