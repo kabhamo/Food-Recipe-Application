@@ -29,12 +29,14 @@ $ git clone https://github.com/kabhamo/Food-Recipe-Application.git
 ```
 
 ## Acknowledgements
-
+$
 <br>
 The Application interact with a REST API from <a href="https://forkify-api.herokuapp.com/" target="_blank" rel="nofollow">Forkify API</a>.
 <br>
 <br>The app will retrieve information from the website and display it in various view types.<br>
-<br>I love food, I believe I am a good cooker so I made this application so it can help me to keep updated with the many delicious recipes we all love. I use this<br> [Technology](#technology) <br>to make it work and easy to use. I am so happy to share it with everyone<br>
+<br>I love food, I believe I am a good cooker so I made this application so it can help me to keep updated with the many delicious recipes we all love.<br>
+I use this [Technology](#technology)
+<br>to make it work and easy to use. I am so happy to share it with everyone<br>
 <br>See the list of all available queries <a href="https://forkify-api.herokuapp.com/phrases.html" target="_blank" rel="nofollow">Search Queries</a>. <br>
 
 <strong>Architecture Diagram</strong>
