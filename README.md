@@ -1,12 +1,10 @@
 # Food Recipe
-> A JAVA application that allow users to explore new and delicieuse food recipes
+> A JAVA application that allow users to explore new and delicious food recipes
 
 
 
 <img src="FR Asset/Breakfast.png" width="300" height="600" ><img src="FR Asset/Desserts.png" width="300" height="600" ><img src="FR Asset/Search Description.png" width="300" height="600" ><img src="FR Asset/Searching.png" width="300" height="600" >
 
-
-[![vido_thumbnail](https://c1.staticflickr.com/3/2154/2054140257_58e87296b6.jpg)](https://www.youtube.com/watch?v=SjORe3_2bQc)
 
 
 ## Table of Contents
@@ -36,6 +34,7 @@ $ git clone https://github.com/kabhamo/Food-Recipe-Application.git
 The Application interact with a REST API from <a href="https://forkify-api.herokuapp.com/" target="_blank" rel="nofollow">Forkify API</a>.
 <br>
 <br>The app will retrieve information from the website and display it in various view types.<br>
+<br>I love food, I believe I am a good cooker so I made this application so it can help me to keep updated with the many delicious recipes we all love. I use this<br> [Technology](#technology) <br>to make it work and easy to use. I am so happy to share it with everyone<br>
 <br>See the list of all available queries <a href="https://forkify-api.herokuapp.com/phrases.html" target="_blank" rel="nofollow">Search Queries</a>. <br>
 
 <strong>Architecture Diagram</strong>
@@ -66,3 +65,5 @@ The Application interact with a REST API from <a href="https://forkify-api.herok
 - **POSTMAN:** https://www.postman.com/
 - **MVVM:** https://www.tutorialspoint.com/mvvm/index.htm
 - **Retrofit:** https://square.github.io/retrofit/
+- **RecyclerView:** https://blog.mindorks.com/how-does-recyclerview-work-internally
+- **Android Developer:** https://developer.android.com/
