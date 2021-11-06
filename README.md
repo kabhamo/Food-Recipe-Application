@@ -2,8 +2,7 @@
 > A JAVA application that allow users to explore new and delicieuse food recipes
 
 
-
-![logo](https://upload.wikimedia.org/wikipedia/commons/5/59/Logo-Logo.svg)
+<img src="FR Asset/Desserts.png" width="300" height="600" >
 
 
 [![vido_thumbnail](https://c1.staticflickr.com/3/2154/2054140257_58e87296b6.jpg)](https://www.youtube.com/watch?v=SjORe3_2bQc)
