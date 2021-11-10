@@ -62,9 +62,9 @@ I use this [Technology](#technology)
 	</ol>
 
 
-   <h1>Dependencies Used: </h1>
+   <h3>Dependencies I Used: </h3>
    
-		```sh
+		
 		dependencies {
     def retrofitVersion = '2.4.0'
     def lifecycle_version = "1.1.1"
@@ -109,7 +109,7 @@ I use this [Technology](#technology)
     implementation 'de.hdodenhof:circleimageview:3.1.0'
 
 	}
-		```
+	
 <br>
 	
 ### Some Useful links
