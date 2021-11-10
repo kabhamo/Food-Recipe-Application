@@ -62,6 +62,11 @@ I use this [Technology](#technology)
 	</ol>
 <br>
 
+<h1>dependencies</h1?
+	```sh
+	$ git clone https://github.com/kabhamo/Food-Recipe-Application.git
+	```
+	
 ### Some Useful links
 
 - **POSTMAN:** https://www.postman.com/
