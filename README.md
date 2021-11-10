@@ -60,12 +60,57 @@ I use this [Technology](#technology)
 		<li>Async Task, ThreadPools, OOP</li>
 		<li>Network Security Config for HTTP (API 28+)</li>
 	</ol>
-<br>
 
-<h1>dependencies</h1?
-	```sh
-	$ git clone https://github.com/kabhamo/Food-Recipe-Application.git
-	```
+
+   <h1>Dependencies Used: </h1>
+   
+		```sh
+		dependencies {
+    def retrofitVersion = '2.4.0'
+    def lifecycle_version = "1.1.1"
+    def supportVersion = "28.0.0"
+    def glideVersion = "4.12.0"
+
+    implementation 'androidx.appcompat:appcompat:1.3.1'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.1'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+
+    //retrofit
+    //noinspection GradleDependency
+    implementation "com.squareup.retrofit2:retrofit:$retrofitVersion"
+
+    // Retrofit gson converter
+    //noinspection GradleDependency
+    implementation "com.squareup.retrofit2:converter-gson:$retrofitVersion"
+
+    // ViewModel and LiveData
+    implementation "android.arch.lifecycle:extensions:$lifecycle_version"
+
+    // CardViews
+    implementation "androidx.cardview:cardview:1.0.0"
+
+    // RecyclerViews
+    implementation "androidx.recyclerview:recyclerview:1.2.1"
+    // For control over item selection of both touch and mouse driven selection
+    implementation "androidx.recyclerview:recyclerview-selection:1.1.0"
+
+    // Design Support
+    implementation "com.android.support:design:$supportVersion"
+
+    // Glide
+    //noinspection GradleDependency
+    implementation "com.github.bumptech.glide:glide:$glideVersion"
+    annotationProcessor "com.github.bumptech.glide:compiler:$glideVersion"
+
+    // Circle ImageView
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+	}
+		```
+<br>
 	
 ### Some Useful links
 
